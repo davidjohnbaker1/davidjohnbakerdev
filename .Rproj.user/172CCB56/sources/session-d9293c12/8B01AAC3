@@ -3,7 +3,7 @@
     "path": "~/projects/davidjohnbakerdev/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1360224375",
     "contents": "",
     "dirty": false,
     "created": 1744816941943.0,
@@ -22,11 +22,11 @@
         "marks": "<:14,2\n>:14,2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1744819624,
+    "lastKnownWriteTime": 1744826357,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1744819624451,
+    "last_content_update": 1744826357460,
     "read_only": false,
     "read_only_alternatives": []
 }
