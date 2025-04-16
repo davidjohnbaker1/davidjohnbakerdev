@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "DJB/RGG"
+  navbar:
+    left:
+      - about.qmd
+      - href: index.qmd
+        text: David John Baker
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    fontsize: "10"
+    margin-left: "200"
+    margin-right: "200"
+
+editor: visual
+
