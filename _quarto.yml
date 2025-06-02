@@ -9,6 +9,7 @@ website:
       - about.qmd
       - href: index.qmd
         text: David John Baker
+      - portfolio.qmd
 
 format:
   html:
