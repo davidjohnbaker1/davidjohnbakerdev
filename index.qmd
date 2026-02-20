@@ -2,22 +2,32 @@
 title: "Hello!"
 ---
 
-I am a data scientist, small business owner, and lifelong learner. 
+I'm a small business owner, musician, and scientist with a PhD in the humanities.
+Right now most of my time is spent as founder of [Bolero](https://www.hellobolero.com).
+It's a bootstrapped B2B SaaS that started generating revenue within six months of launching it.
+I'm very proud of it.
+
 My consultancy, [Redgranite Group](about.qmd), develops data products and insights for small-to-medium sized businesses.
-I work well in interdisciplinary teams, previous colleagues include: psychologists, computer scientists, music theorists, genomicists, software engineers, and educators. 
-I have strong opinions about R, Bayesian statistics, jazz, and GTD.
+I work well in interdisciplinary teams. 
+Previous colleagues have includde: psychologists, computer scientists, music theorists, genomicists, software engineers, and educators. 
+I have strong opinions about R, Bayesian statistics, about the word jazz, and GTD.
 
 ::: {.callout-note collapse="true"}
-## Actively Looking for Longer-Term Work
-I spent the last year working on freelance/consultancy projects (during move from Europe to USA) and I’m now looking for more stable, longer-term work (e.g. full-time, long-contract). 
+## Not Currently Looking for Longer-Term Work (In a serious way)
 
-If you're looking to hire someone with a strong foundation in the bread-and-butter data workflow (wrangling, visualising, modelling, communicating), [get in touch](mailto:director@redgranite.group)!
+After transitioning out of my career in academia, I spent many months applying for full-time data science and analyst roles.
+During that time, I started working on [Bolero](https://www.hellobolero.com) as an interesting portfolio project (i.e. an excuse to get better at R Shiny, R development, Quarto/Typst) that I thought might help me land a job.
+
+The job market was so bad in 2025 that had enough time to essentially build an entire micro-SaaS that is now generating revenue, despite having only landed a single data science interview that year. 
+
+I am open to full-time, remote friendly roles and consultancy that offer a competitive salary.
+If you're looking to hire someone with a strong foundation in the bread-and-butter data workflow (wrangling, visualizing, modelling, communicating) who has a strong business acumen, please [get in touch](mailto:director@redgranite.group)!
 :::
 
 Links
 
 - [Redgranite Group](about.qmd)
-- [Bolero](https://www.bolerodashboard.com) 
+- [Bolero](https://hellobolero.com) 
 - [LinkedIn](https://www.linkedin.com/in/david-john-baker-phd/)
 - [Github](https://github.com/davidjohnbaker1)
 - [Scholar](https://scholar.google.com/citations?user=tigU2AkAAAAJ&hl=en)
@@ -26,7 +36,8 @@ Links
 
 Background
 
-- 2024-Now : Data Scientist, Director of [Redgranite Group](www.redgranite.group)
+- 2026-Now: Founder, [Bolero](https://www.hellobolero.com)
+- 2024-2025 : Data Scientist, Director of [Redgranite Group](www.redgranite.group)
 - 2022-2024: Postdoc at the [Music Cognition Group](https://www.mcg.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/)
 - 2021-2022: Postdoc in the [Department of Psychology](https://www.gold.ac.uk/psychology/) at [Goldsmiths](https://www.gold.ac.uk/)
 - 2020-2021: Senior Research Associate in the [Computing Department](https://www.gold.ac.uk/computing/) at [Goldsmiths](https://www.gold.ac.uk/)

@@ -18,7 +18,7 @@ Beyond our standard data science work, we also offer expert services related to 
 
 ### Products
 
-- [Bolero: Revenue/Ticket Dashboard for Arts Organizations](https://bolerodashboard.com)
+- [Bolero: Revenue/Ticket Dashboard for Arts Organizations](https://hellobolero.com)
 - DB990: Searchable Database of 990 Tax Returns (Coming Soon...)
 
 ### Expert Services
